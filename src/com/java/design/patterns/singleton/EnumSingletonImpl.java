@@ -20,6 +20,7 @@ enum SingletonGenerator {
         return instaneField;
     }
 
+
 }
 
 public class EnumSingletonImpl {
